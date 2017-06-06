@@ -1,0 +1,23 @@
+body 	{ background-image: url("bild/background.jpg") ;
+ 	  margin-left: 10%; 
+          margin-right: 10% ;
+          border:10px dotted #819FF7;
+          padding: 10px 10px 10px 10px ; }
+img 	{ padding:3px ;
+   	  border:10px solid #0B3861 ;
+	  height:250px ;
+	  width:250px ; }
+h1 	{ /*font-family:"Comic Sans MS" ;*/
+	  font-size: 50px ;
+	  text-align: center ;
+	  text-decoration: underline ;
+	  color: #8A0808 ; }
+table	{ border-style:dotted  solid ;
+	   }
+td 	{ /*font-family:"Bradley Hand ITC" ;*/
+	  font-size: 50px ;
+	  text-align: center ;
+	  color: #0B4C5F; 
+	  }	
+li	{ /*font-family:"BatangChe" ;*/
+	  color: #0B0B61;}
