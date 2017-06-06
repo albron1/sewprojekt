@@ -39,7 +39,6 @@ li a:hover:not(.active) {
   <li><a href="lehrer.php">Lehrer</a></li>
   <li><a href="schueler.php">Schueler</a></li>
 </ul>
-
           <h1> LehrerInnen sind: </h1>
 		  <?php
      
