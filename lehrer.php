@@ -13,7 +13,6 @@ ul {
 li {
     float: left;
 }
-
 li a {
     display: block;
     color: white;
