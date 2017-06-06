@@ -54,7 +54,6 @@ li a:hover:not(.active) {
 				<tr>
 					
 					<td><button name="Reset" type="reset">Reset</button></td>
-					
 					<td><button name="Send" type="submit">Anlegen</button></td>
 				</tr>
 			</table>
